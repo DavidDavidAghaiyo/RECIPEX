@@ -1,0 +1,2 @@
+Add a hamburger menu - to try and display categories
+Each category should lead to the recipes in each particular category
