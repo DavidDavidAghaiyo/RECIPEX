@@ -140,6 +140,7 @@ i {
   text-align: center;
   text-transform: uppercase;
   text-decoration: underline;
+  font-size: 30px;
 }
 
 .ingredientsList li {
